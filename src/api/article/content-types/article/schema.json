@@ -42,10 +42,8 @@
     "blocks": {
       "type": "dynamiczone",
       "components": [
-        "shared.media",
         "shared.quote",
-        "shared.text",
-        "shared.slider"
+        "shared.text"
       ]
     }
   }
